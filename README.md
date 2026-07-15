@@ -75,6 +75,8 @@ This project implements a **32-bit Arithmetic Logic Unit (ALU)** using **Verilog
 
 The ALU was successfully simulated using **GTKWave**. The simulation verified the correct functionality of all arithmetic, logical, and shift operations. Status flags (Carry, Zero, and Overflow) were also validated.
 
+![simulation waveform]
+(simulation_waveform.png)
 ---
 
 ## Project Report
